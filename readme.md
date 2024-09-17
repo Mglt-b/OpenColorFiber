@@ -16,14 +16,6 @@ To install OpenColorFiber, follow these steps:
     ```sh
     git clone https://github.com/MGLT-B/OpenColorFiber.git
     ```
-2. Navigate to the project directory:
-    ```sh
-    cd OpenColorFiber
-    ```
-3. Install the required dependencies:
-    ```sh
-    pip install -r requirements.txt
-    ```
 
 ## Usage
 
